@@ -1,0 +1,2 @@
+# Shopping-Mall-Sales-Customer-Insights---Power-BI-Dashboard
+A Power BI dashboard analyzing shopping mall sales and customer behavior. This project includes data cleaning, visualization, and insights into revenue trends, age group spending, top-selling categories, and payment methods. Conditional formatting is applied to highlight key trends, and the analysis helps understand customer spending patterns.
